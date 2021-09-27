@@ -13,6 +13,15 @@
         android:theme="@style/Theme.MyRetro"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".FoodInfoActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RecipeActivity"
+            android:exported="true" />
+        <activity
+            android:name=".SchoolActivity"
+            android:exported="true" />
+        <activity
             android:name=".OtherActivity"
             android:exported="true" />
         <activity

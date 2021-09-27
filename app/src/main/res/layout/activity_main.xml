@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="40dp"
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
         android:weightSum="1">
@@ -38,7 +38,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="20dp"
         android:layout_marginStart="30dp"
         android:layout_marginEnd="30dp"
         android:weightSum="1">
@@ -65,10 +65,35 @@
         android:id="@+id/search_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="20dp"
         android:text="검 색"
         android:textSize="20sp"
         android:layout_gravity="center"/>
 
+    <Button
+        android:id="@+id/search_btn_smeal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="급식검색"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
 
+    <Button
+        android:id="@+id/search_btn_recipe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="레시피검색"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
+
+    <Button
+        android:id="@+id/search_btn_fn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="영양정보검색"
+        android:textSize="20sp"
+        android:layout_gravity="center"/>
 </LinearLayout>

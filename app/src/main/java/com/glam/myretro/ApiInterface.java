@@ -5,8 +5,8 @@ import retrofit2.http.GET;
 import retrofit2.http.Query;
 
 public interface ApiInterface {
-    @GET("example_select.php")
-    Call<Person> getNameHobby(
+    @GET("/shoponline/navershop.php")
+    Call<Naver> getNameHobby(
             @Query("name") String name,
             @Query("hobby") String hobby
     );

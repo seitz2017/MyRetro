@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyRetro/app/src/main/res/layout/activity_food_info.xml" value="0.25679347826086957" />
         <entry key="..\:/Users/User/AndroidStudioProjects/MyRetro/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/User/AndroidStudioProjects/MyRetro/app/src/main/res/layout/activity_other.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyRetro/app/src/main/res/layout/activity_recipe.xml" value="0.20845997973657548" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/MyRetro/app/src/main/res/layout/activity_school.xml" value="0.20845997973657548" />
       </map>
     </option>
   </component>
